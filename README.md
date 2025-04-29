@@ -66,7 +66,7 @@ Access the live deployed version here:
 👉[live Link]( https://securejoin.onrender.com)
 
 ## 🙌 Acknowledgements
-Node.js
-Express
-Socket.IO
-Render
+- Node.js
+- Express
+- Socket.IO
+- Render
